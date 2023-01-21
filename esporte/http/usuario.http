@@ -1,0 +1,8 @@
+DELETE      http://localhost:8017/centroEsportivo/81
+Content-Type: application/json
+
+{
+    "email": "luciano@luciano.com",
+    "password": "321"
+      
+}
